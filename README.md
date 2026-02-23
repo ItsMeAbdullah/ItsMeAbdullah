@@ -17,7 +17,7 @@
 ## 🧠 Currently Learning
 
 - Advanced Cybersecurity Concepts  
-- Backend Development with Node.js  
+- Advanced Networking Concepts
 - Ethical Hacking Fundamentals  
 
 ---
@@ -31,14 +31,6 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=yellow)
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ItsMeAbdullah&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeAbdullah&layout=compact&theme=tokyonight)
 
 ---
 
