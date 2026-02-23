@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hey, I'm Abdullah
 
-<!--
-**ItsMeAbdullah/ItsMeAbdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Student | 🔐 Cybersecurity Enthusiast | 🤖 Bot Developer | 🎮 Gamer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Student passionate about technology  
+- 🔐 Interested in **Cybersecurity**
+- 🤖 Love building **Discord Bots**
+- 🌐 Learning **Web Development**
+- 🎮 Gaming is my stress relief
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced Cybersecurity Concepts  
+- Backend Development with Node.js  
+- Ethical Hacking Fundamentals  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Tools
+
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=yellow)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ItsMeAbdullah&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeAbdullah&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Contribution Streak
+
+![Streak](https://streak-stats.demolab.com/?user=ItsMeAbdullah&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy breaking systems… and then learning how to secure them 😄
+
+---
+
+## 🤝 Connect With Me
+
+⭐ Don’t forget to check out my repositories and drop a star!
