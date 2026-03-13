@@ -36,7 +36,7 @@
 
 ## 🔥 Contribution Streak
 
-![Streak](https://streak-stats.demolab.com/?user=ItsMeAbdullah&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=abdullahkhawaja488&theme=tokyonight)
 
 ---
 
